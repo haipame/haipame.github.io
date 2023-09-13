@@ -1,2 +1,2 @@
-# 这是关于曹某的介绍
-# This is an introduction to Cao
+# 这是曹某网站的雏形
+# This is the prototype of Cao's website
